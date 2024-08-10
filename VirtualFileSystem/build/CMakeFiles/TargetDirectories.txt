@@ -1,0 +1,3 @@
+C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build/CMakeFiles/VirtualFileSystem.dir
+C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build/CMakeFiles/edit_cache.dir
+C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build/CMakeFiles/rebuild_cache.dir

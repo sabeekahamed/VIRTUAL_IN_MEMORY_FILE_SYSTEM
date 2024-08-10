@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/include -g -std=c++14 -o CMakeFiles\\VirtualFileSystem.dir\\src\\main.cpp.obj -c C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\main.cpp",
+  "file": "C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\main.cpp",
+  "output": "CMakeFiles\\VirtualFileSystem.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/include -g -std=c++14 -o CMakeFiles\\VirtualFileSystem.dir\\src\\Command.cpp.obj -c C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\Command.cpp",
+  "file": "C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\Command.cpp",
+  "output": "CMakeFiles\\VirtualFileSystem.dir\\src\\Command.cpp.obj"
+},
+{
+  "directory": "C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/include -g -std=c++14 -o CMakeFiles\\VirtualFileSystem.dir\\src\\FileSystem.cpp.obj -c C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\FileSystem.cpp",
+  "file": "C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\FileSystem.cpp",
+  "output": "CMakeFiles\\VirtualFileSystem.dir\\src\\FileSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/include -g -std=c++14 -o CMakeFiles\\VirtualFileSystem.dir\\src\\CommandFactory.cpp.obj -c C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\CommandFactory.cpp",
+  "file": "C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\CommandFactory.cpp",
+  "output": "CMakeFiles\\VirtualFileSystem.dir\\src\\CommandFactory.cpp.obj"
+},
+{
+  "directory": "C:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -IC:/Users/sabee/Documents/PROJECTS/VirtualFileSystem/include -g -std=c++14 -o CMakeFiles\\VirtualFileSystem.dir\\src\\CommandInvoker.cpp.obj -c C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\CommandInvoker.cpp",
+  "file": "C:\\Users\\sabee\\Documents\\PROJECTS\\VirtualFileSystem\\src\\CommandInvoker.cpp",
+  "output": "CMakeFiles\\VirtualFileSystem.dir\\src\\CommandInvoker.cpp.obj"
+}
+]

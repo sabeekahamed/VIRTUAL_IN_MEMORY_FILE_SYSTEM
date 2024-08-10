@@ -1,0 +1,4 @@
+#ifndef __VIRTUAL_FULL_HANDLER_H_
+#define __VIRTUAL_FULL_HANDLER_H_
+
+#endif
